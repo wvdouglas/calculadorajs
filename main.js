@@ -1,6 +1,6 @@
 function Calculadora(){
 
-this.inputCalc = document.querySelector('#input_calc');
+this.inputCalc = document.querySelector('#input-calc');
 
 this.inicia = () => {
     this.btn();
